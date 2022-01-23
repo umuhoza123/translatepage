@@ -131,10 +131,7 @@ WELCOME TO TRANSLATION PAGE
                 
                    </td>
                 </tr>
-                <tr>
-                <td><a href="index.php">Home</a></td>
-    <td><a href="create.php">Insert new word</a> </td>
-            </tr>
+               
      
             </table>
 
