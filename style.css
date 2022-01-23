@@ -8,7 +8,7 @@ body{
 
 
 .card{
-    background-color: rgb(71, 90, 197);
+    background-color: rgb(54, 78, 216);
     align-content: center;
     width: 400px;
     height: 350px;
@@ -43,7 +43,7 @@ marquee{
       font-size: 200%;
      color: whitesmoke;
   }
-.a{
+a{
     text-decoration: none;
     color: black;
     font-size: large;
