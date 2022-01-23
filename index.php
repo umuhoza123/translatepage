@@ -9,7 +9,7 @@
     <marquee width="100%" direction="right" height="100px" >
 WELCOME TO TRANSLATION PAGE
 </marquee>
-
+<p >
 <table width="50%" cellspacing="60" border="0">
 <tr>
     <td><a href="index.php">Home</a></td>
@@ -18,7 +18,7 @@ WELCOME TO TRANSLATION PAGE
       
   </tr>
   </table>
-
+<p>
     </div>
         <div class="card" align="center" >
     

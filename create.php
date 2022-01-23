@@ -53,7 +53,7 @@ mysqli_close($connect); // Close connection
         <form  method="post">
               
               
-<table bgcolor="pink" width="50%" cellspacing="20" border="0">
+<table bgcolor="hyperdansgame" width="50%" cellspacing="20" border="0">
                <tr> <td><label for="variable">Variable</label></td>
                 <td><input type="text" name="variable" id="var"></td>
             </tr>
