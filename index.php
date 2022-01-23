@@ -15,6 +15,7 @@ WELCOME TO TRANSLATION PAGE
         <h2 class="title">
             translate
         </h2>
+
         <hr class="line">
         <div class="content">
             <form method="post">
@@ -26,6 +27,7 @@ WELCOME TO TRANSLATION PAGE
             <label for=""></label> -->
             <table border="0">
                 <tr>
+                <td><a href="create.php">Insert </a> </td>
                     <td>
                         <h3 class="label__class">Word: </h3>
                     </td>
