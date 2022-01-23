@@ -29,12 +29,12 @@ if(isset($_POST['submit']))
 {       
     $variable = $_POST['variable'];
     $kinyarwanda= $_POST['kinyarwanda'];
-        $french = $_POST['english'];
-        $english= $_POST['french'];
+        $english = $_POST['english'];
+        $french= $_POST['french'];
         $swahili = $_POST['swahili'];
         
 
-    $insert = mysqli_connect($connect,"INSERT INTO `indimi`(`variable`,`kinyarwanda`,`english`,`french`,`swahili`) 
+    $insert = mysqli_query($connect,"INSERT INTO `indimi`(`variable`,`kinyarwanda`,`english`,`french`,`swahili`) 
     VALUES ('$variable','$kinyarwanda','$english','$french','$swahili')");
 
     if(!$insert)
