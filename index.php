@@ -10,9 +10,10 @@
 WELCOME TO TRANSLATION PAGE
 </marquee>
 
-<table>
+<table >
 <tr>
                 <td><a href="create.php">Insert new word</a> </td></tr>
+                
             
             </table>
     </div>
