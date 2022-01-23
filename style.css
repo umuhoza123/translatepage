@@ -1,0 +1,45 @@
+body{
+    background-image: url(computer.jpeg);
+    background-repeat: no-repeat;
+   
+    background-size: cover;
+}
+
+
+
+.card{
+    background-color: rgb(71, 90, 197);
+    align-content: center;
+    width: 400px;
+    height: 350px;
+    margin: 5rem;
+    margin-left: 25rem;
+
+}
+.title
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 2rem;
+}
+.line{
+    margin-top: -1rem;
+}
+.label__class{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+button {
+    background-color:rgb(176, 176, 179); /* Green */
+    border: dashed;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+marquee{
+      font-size: 200%;
+     color: whitesmoke;
+  }
