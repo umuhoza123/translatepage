@@ -63,13 +63,13 @@ mysqli_close($db); // Close connection
             </tr>
   
   <tr>
-               <td> <label for="french">French</label></td>
-               <td> <input type="text" name="french" id="fre"></td>
+               <td> <label for="french">English</label></td>
+               <td> <input type="text" name="english" id="eng"></td>
             </tr>
   
   <tr>              
-                 <td><label for="english">English</label></td>
-               <td> <input type="text" name="english" id="eng"></td>
+                 <td><label for="english">french</label></td>
+               <td> <input type="text" name="french" id="fre"></td>
                   </tr>
                <tr>
                  <td><label for="swahili">Swahili</label></td>
