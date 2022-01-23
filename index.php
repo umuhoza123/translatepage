@@ -10,12 +10,15 @@
 WELCOME TO TRANSLATION PAGE
 </marquee>
 
-<table >
+<table width="20%" cellspacing="40" border="0">
 <tr>
-                <td><a href="create.php">Insert new word</a> </td></tr>
-                
-            
-            </table>
+    <td><a href="index.php">Home</a></td>
+    <td><a href="create.php">Insert new word</a> </td>
+</td>
+      
+  </tr>
+  </table>
+
     </div>
         <div class="card" align="center" >
     
