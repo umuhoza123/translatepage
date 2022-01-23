@@ -34,8 +34,8 @@ if(isset($_POST['submit']))
         $swahili = $_POST['swahili'];
         
 
-    $insert = mysqli_query($db,"INSERT INTO `indimi`(`variable`, `kinyarwanda`, `english`, `french`, `swahili`) 
-    VALUES ('$variable','$kinyarwanda','$french','$english','$swahili')");
+    $insert = mysqli_query($db,"INSERT INTO `indimi`(`variable`,`kinyarwanda`,`english`,`french`,`swahili`) 
+    VALUES ('$variable','$kinyarwanda','$english','$french','$swahili')");
 
     if(!$insert)
     {
