@@ -9,12 +9,19 @@
     <marquee width="100%" direction="right" height="100px" >
 WELCOME TO TRANSLATION PAGE
 </marquee>
+
+<table>
+<tr>
+                <td><a href="create.php">Insert new word</a> </td></tr>
+            
+            </table>
     </div>
         <div class="card" align="center" >
     
         <h2 class="title">
             translate
         </h2>
+        
 
         <hr class="line">
         <div class="content">
@@ -26,8 +33,8 @@ WELCOME TO TRANSLATION PAGE
             </select>
             <label for=""></label> -->
             <table border="0">
+                
                 <tr>
-                <td><a href="create.php">Insert </a> </td>
                     <td>
                         <h3 class="label__class">Word: </h3>
                     </td>

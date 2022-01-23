@@ -3,12 +3,13 @@
   
 <head>
     <title>register words</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <style>
 a{
     text-decoration: none;
     color: black;
-    font-size: 15px;
+    font-size: 30px;
     }
 </style>
 
