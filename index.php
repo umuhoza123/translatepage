@@ -10,7 +10,7 @@
 WELCOME TO TRANSLATION PAGE
 </marquee>
 <p >
-<table width="20%" cellspacing="40" border="0" align="center" >
+<table width="50%" cellspacing="40" border="0" align="center" >
 <tr>
     <td><a href="index.php">Home</a></td>
     <td><a href="create.php">Insert new word</a> </td>
